@@ -5,16 +5,6 @@ People who actively work on a software product will likely get the most out of t
 
 The maintainer of this project is [Andrea Goulet](https://www.linkedin.com/in/andreamgoulet), who originally created it to accompany her book, _[Empathy-Driven Software Development](https://heartware.dev/book)_. 
 
-# Table of contents
-
-- [About](#about)
-  - [Format](#format)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
-# About
-Here's a bit more about the project and how you can get involved.
-
 ## Format
 This repository will start using the [awesome-list](https://github.com/topics/awesome-list) format. The README file is where the action is. As resources are added, we'll organize them into relevant categories. We're particularly inspired by [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) by [Michał Ży](https://github.com/trimstray).
 

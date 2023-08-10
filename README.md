@@ -1,19 +1,17 @@
-# Make Empathy Part of Your Software Development
+# Resources for Compassionate Technologists
 This repository is a collection of resources designed to provide concrete, practical, and actionable examples of coding with empathy. When empathy is taught in a general context, it can come across as mere intuition or psychic ability. The resources here are specific and relevant to the context of creating software. 
 
-## Who Is It For?
-People who actively work on a software product will likely get the most out of this repository. This is more than people who write code. For example:
+People who actively work on a software product will likely get the most out of this repository. This is more than people who write code. Leaders, managers, product owners, UX and Customer Experience folks, testers, Agilists, and people who interact directly with customers are likely to find useful information here, too. 
 
-* Software Developers/Engineers/Architects
-* CTOs, CEOs, and COOs who lead software companies
-* Team Leaders and Managers
-* Agile Practitioners
-* Product Owners and Project Managers
-* Quality Assurance and Testing
-* User/Customer/Developer Experience
-* Customer Service/Success Specialists
-* Network Administrators
-* And, many, many more.
+# Table of contents
+
+- [About](#about)
+  - [Format](#format)
+  - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
+# About
+Here's a bit more about the project and how you can get involved.
 
 ## Format
 This repository will start using the [awesome-list](https://github.com/topics/awesome-list) format. The README file is where the action is. As resources are added, we'll organize them into relevant categories. We're particularly inspired by [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) by [Michał Ży](https://github.com/trimstray).

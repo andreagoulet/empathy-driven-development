@@ -3,6 +3,8 @@ This repository is a collection of resources designed to provide concrete, pract
 
 People who actively work on a software product will likely get the most out of this repository. This is more than people who write code. Leaders, managers, product owners, UX and Customer Experience folks, testers, Agilists, and people who interact directly with customers are likely to find useful information here, too. 
 
+The maintainer of this project is [Andrea Goulet](https://www.linkedin.com/in/andreamgoulet), who originally created it to accompany her book, _[Empathy-Driven Software Development](https://heartware.dev/book)_. 
+
 # Table of contents
 
 - [About](#about)

@@ -38,7 +38,3 @@ By contributing, you agree to abide by the terms of the [Contributor Covenant](h
 📝 = Articles
 👟 = Exercises
 ⚙️ = Apps & Tools
-
-## Table of Contents
-To be completed when content is created and organized
-

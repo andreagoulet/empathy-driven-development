@@ -57,7 +57,7 @@ View examples by things that get created while you code.
 * **Variables, Functions, Methods, Classes, etc.**
 * **Documentation**
     * ⚙️ **[Read the Docs](https://about.readthedocs.com/)** Tool for integrating documentation updates into your daily workflow.
-    * 📘 **Living Documentation by Cyrille Martraire** [Amazon](https://a.co/d/aPJeCN2) [O'Reilly](https://www.oreilly.com/library/view/living-documentation-continuous/9780134689418/) [B&N](https://www.barnesandnoble.com/w/living-documentation-cyrille-martraire/1132519402) "...shows how to dramatically improve your documentation at minimal extra cost by using well-crafted artifacts and judicious automation."
+    * 📘 **_Living Documentation by Cyrille Martraire_** [Amazon](https://a.co/d/aPJeCN2)  |  [O'Reilly](https://www.oreilly.com/library/view/living-documentation-continuous/9780134689418/)  |  [B&N](https://www.barnesandnoble.com/w/living-documentation-cyrille-martraire/1132519402) "...shows how to dramatically improve your documentation at minimal extra cost by using well-crafted artifacts and judicious automation."
 * **Commit Messages**
 * **Pull/Merge Requests**
 * **Code Reviews**

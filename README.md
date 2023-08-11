@@ -48,8 +48,12 @@ View examples by things that get created while you code.
 * Error Handling
     * 📝 [When Life Gives You Lemons, Write Better Error Messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f) Jeni Nadler shares how Wix uses a list 5 attributes for error messages.
     * 📝 [Compiler Errors for Humans](https://elm-lang.org/news/compiler-errors-for-humans) Elm creator Evan Czaplicki shares his thought process behind Elm's human-centered error handling.
-    * 🎓 [Compiler Error Messages Considered Unhelpful: The Landscape of Text-Based Programming Error Message Research](Compiler Error Messages Considered Unhelpful: The Landscape of Text-Based Programming Error Message Research) An ACM working group evaluated over 300 error message research studies over the 50 years.
+    * 🎓 [Compiler Error Messages Considered Unhelpful: The Landscape of Text-Based Programming Error Message Research](https://dl.acm.org/doi/10.1145/3344429.3372508) An ACM working group evaluated over 300 error message research studies over the 50 years.
 * Alt Text
+    * 📝 [WebAIM Alternative Text](https://webaim.org/techniques/alttext/) Suggestions from a research group that studies accessibility and provides training.
+    * 📝 [Five golden rules for compliant alt text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) Mark Walker shares his suggestions for a checklist to use when writing Alt Text
+    * ⚙️ [WAVE® Web Accessibility Tools](https://wave.webaim.org/) Free tools to help you evaluate how accessibile websites are.
+    * 🎥 [Screen reader demo](https://www.youtube.com/watch?v=QP0nbdNU-iE) Short video showing how a screenreader sounds for different alt text configurations of the same image.
 * Variables, Functions, Methods, Classes, etc.
 * Documentation
 * Commit Messages

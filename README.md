@@ -63,7 +63,7 @@ View examples by things that get created while you code.
     * 🎓 **[Naming Practices in Java Projects: An Empirical Study](https://doi.org/10.1145/3493244.3493258)** Researchers examined over 1.4 million identifier names across 40 open-source Java projects to determine which patterns are the most common.
 * **Documentation**
     * ⚙️ **[Read the Docs](https://about.readthedocs.com/)** Tool for integrating documentation updates into your daily workflow.
-    * 📘 **_Living Documentation by Cyrille Martraire_** [Amazon](https://a.co/d/aPJeCN2)  |  [O'Reilly](https://www.oreilly.com/library/view/living-documentation-continuous/9780134689418/)  |  [B&N](https://www.barnesandnoble.com/w/living-documentation-cyrille-martraire/1132519402) "...shows how to dramatically improve your documentation at minimal extra cost by using well-crafted artifacts and judicious automation."
+    * 📘 **_Living Documentation by Cyrille Martraire_** Available on [Amazon](https://a.co/d/aPJeCN2), [O'Reilly](https://www.oreilly.com/library/view/living-documentation-continuous/9780134689418/), and [B&N](https://www.barnesandnoble.com/w/living-documentation-cyrille-martraire/1132519402) "...shows how to dramatically improve your documentation at minimal extra cost by using well-crafted artifacts and judicious automation."
 * **Commit Messages**
     * 📝 **[Better Communication Through Commit Messages](https://corgibytes.com/blog/2019/03/20/commit-messages/)** - Josh Kelley goes through specific practices for using commit messages to make it easy for other people to understand a project's history.
 * **Code Reviews**

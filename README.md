@@ -18,9 +18,9 @@ Contributions welcome! In addition to the list, we're also hoping to use GitHub'
 ### Adding Content & Asking Questions
 Here's the general workflow for getting an idea out of your head so we can consider adding it to the list. 
 
-1. **Start with a discussion** to [share your ideas](https://github.com/andreagoulet/empathy-driven-development/discussions/categories/ideas), [ask questions](https://github.com/andreagoulet/empathy-driven-development/discussions/categories/q-a), and [connect with other community members](https://github.com/andreagoulet/empathy-driven-development/discussions/categories/general). 
-2. **Maintainers will create issues** when a specific task is identified. Issues should include relevant context as well as links to relevant discussions. 
-3. **Use pull requests to address issues** that have been identified.
+1. **Start with a discussion** to [share your ideas]([https://github.com/andreagoulet/empathy-driven-development/discussions/categories/ideas](https://github.com/andreagoulet/empathy-driven-development/discussions/categories/suggest-a-resource)), [ask questions](https://github.com/andreagoulet/empathy-driven-development/discussions/categories/q-a), and [connect with other community members](https://github.com/andreagoulet/empathy-driven-development/discussions/categories/general). 
+2. **Maintainers will create issues** from relevant discussions. 
+3. **Address issues with pull requests** for a maintainer to review.
 
 ### Small Changes
 If you find a relatively simple issue, such as a typo or a broken link, you can submit a pull request directly.

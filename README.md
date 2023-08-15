@@ -5,12 +5,14 @@ People who actively work on a software product will likely get the most out of t
 
 The maintainer of this project is [Andrea Goulet](https://www.linkedin.com/in/andreamgoulet), who originally created it to accompany her book, _[Empathy-Driven Software Development](https://heartware.dev/book)_. 
 
+You can also join the accompanying [Empathy in Tech](https://empathyintech.com) community to access our Discord server, free events, and more. 
+
 ## Format
 This repository will start using the [awesome-list](https://github.com/topics/awesome-list) format. The README file is where the action is. As resources are added, we'll organize them into relevant categories. We're particularly inspired by [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) by [Michał Ży](https://github.com/trimstray).
 
-We've also set up a GitHub page for an easier, more bookmarkable experience.
+GitHub [automatically generates a Table of Contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/), which may make it easier for you to navigate the content.
 
-https://andreagoulet.github.io/empathy-driven-development
+For a sleeker reading experience, you can [view the content on GitHub pages](https://andreagoulet.github.io/empathy-driven-development). 
 
 ## Contributing
 Contributions welcome! In addition to the list, we're also hoping to use GitHub's discussions feature to help build a robust knowledge base that allows for nuance and conversation. Our hope is that utilizing this feature first will help make it easier for people who work in software but don't use GitHub regularly to contribute their ideas. 
@@ -39,9 +41,6 @@ By contributing, you agree to abide by the terms of the [Contributor Covenant](h
 - 👟Exercises
 - 🎙️Podcasts
 - 🎥Videos        
-
-## Table of Contents
-Will be updated as content is added
 
 # Operationalizing Empathy
 Techniques for generally bringing more empathy to your work

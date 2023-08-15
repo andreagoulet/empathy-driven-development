@@ -43,6 +43,10 @@ By contributing, you agree to abide by the terms of the [Contributor Covenant](h
 ## Table of Contents
 Will be updated as content is added
 
+# Operationalizing Empathy
+Techniques for generally bringing more empathy to your work
+* 🎥 **[Finding Empathy Opportunities While You Code](https://youtu.be/1RqI4hy-dd8)** Andrea Goulet walks through four original frameworks to help you notice where you can use empathy during your day-to-day development practice. 
+
 # Artifacts
 View examples by things that get created while you code. 
 * **Error Handling**
